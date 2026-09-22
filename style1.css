@@ -1,0 +1,74 @@
+.headerclass{
+    background-color: blue;
+    margin:8px;
+    margin-top:0px
+}
+.headerh1class{
+    text-align: center; color: rgb(255, 255, 255); font-size: 50px;
+}
+.headerpreclass{
+    text-align: center; color: rgba(255, 255, 255, 0.903); font-size: 15px;
+}
+.section1class{
+    margin-left: 40px;
+}
+.section1h3class{
+    color:blue; font-size: 25px;
+}
+.section1h3hrclass{
+    background-color:blue; height: 2px; margin-right: 40px;
+}
+.section1pclass{
+    font-size: 25px;
+}
+.section2class{
+    margin-left: 40px;
+}    
+.section2h3class{
+    color:blue; font-size: 25px;
+}
+.section2h3hrclass{
+    background-color:blue; height: 2px;
+}
+.section2h3h4class{
+    color:rgba(58, 85, 192, 0.919); font-size: 19px;
+}
+.section2h3h4h4class{
+    color:rgba(58, 85, 192, 0.919); font-size: 19px;
+}
+.section3class{
+    margin-left: 40px;
+}
+.section3h3class{
+    color:blue; font-size: 19px;
+}
+.section3h3hrclass{
+    background-color:blue; height: 2px;
+}
+th,td{
+    padding:10px;
+    border:1px solid black
+}
+.section3tableclass{
+    width:60%;
+    border-collapse: collapse;
+}
+.trbgclass{
+    background-color: aliceblue;
+}
+.h3class{
+    color:blue; font-size: 20px; padding-top: 25px; padding-left: 40px;
+}
+.mainformclass{
+    background-color: aliceblue; margin-right:40px; margin-left:40px; margin-top: 40px;
+    border-radius:15px; padding-top:25px;
+}
+.mainformhrclass{
+    background-color:blue; height: 2px;margin-left:40px;
+}
+.padnlabelclass{
+    padding:25px; padding-top:20px;
+}
+.padnlabelclass2{
+    margin-left:20px; margin-top:5px;
+}
